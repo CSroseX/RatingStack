@@ -1,4 +1,4 @@
-# Store Rating Platform
+# RatingStack - A Store Rating Platform
 
 ## Overview
 
